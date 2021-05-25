@@ -1,0 +1,588 @@
+
+
+ <!DOCTYPE html>
+<html lang="pl-PL" prefix="og: http://ogp.me/ns#" class>
+	<head>
+
+		<meta charset="UTF-8">
+
+		<title>Strony nie znaleziono - Pyszny przepis</title>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+		<link rel="pingback" href="https://www.pyszny-przepis.pl/xmlrpc.php">
+
+		
+<!-- Google Webfonts -->
+<link href="../css/css_1.css" rel="stylesheet" type="text/css">
+
+		
+<!-- This site is optimized with the Yoast SEO plugin v7.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow">
+<meta property="og:locale" content="pl_PL">
+<meta property="og:type" content="object">
+<meta property="og:title" content="Strony nie znaleziono - Pyszny przepis">
+<meta property="og:site_name" content="Pyszny przepis">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Strony nie znaleziono - Pyszny przepis">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<link rel="alternate" type="application/rss+xml" title="Pyszny przepis &raquo; Kanał z wpisami" href="https://www.pyszny-przepis.pl/feed/">
+<link rel="alternate" type="application/rss+xml" title="Pyszny przepis &raquo; Kanał z komentarzami" href="https://www.pyszny-przepis.pl/comments/feed/">
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="parent-style-css" href="../css/layout.css" type="text/css" media="all">
+<link rel="stylesheet" id="child-style-css" href="../css/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="theme-stylesheet-css" href="../css/style_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="df-style-css" href="../css/layout.css" type="text/css" media="all">
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/jquery-migrate.min.js"></script>
+<link rel="https://api.w.org/" href="https://www.pyszny-przepis.pl/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.pyszny-przepis.pl/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.pyszny-przepis.pl/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.9.18">
+    <style type="text/css" media="screen">
+      div.printfriendly a, div.printfriendly a:link, div.printfriendly a:hover, div.printfriendly a:visited, div.printfriendly a:focus {
+        text-decoration: none;
+        border: none;
+        -webkit-box-shadow:none!important;
+        box-shadow:none!important;
+      }
+    </style>
+           <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 12px 12px 12px 12px;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            font-size: 14px;
+            color: #6D9F00;
+          }
+        </style>
+		<link rel="stylesheet" href="../css/printfriendly.css" media="screen">
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+
+<!-- Theme version -->
+<meta name="generator" content="Food And Cook Child 1.0.0">
+<meta name="generator" content="Food And Cook 2.5.1">
+<meta name="generator" content="WooFramework 5.5.5">
+
+<!-- Woo Shortcodes CSS -->
+<link href="../css/shortcodes.css" rel="stylesheet" type="text/css">
+
+<!-- Custom Stylesheet -->
+<link href="../css/custom.css" rel="stylesheet" type="text/css">
+
+<!-- Google Webfonts -->
+<link href="../css/css_1.css" rel="stylesheet" type="text/css">
+
+<!-- Custom CSS Styling -->
+<style type="text/css">
+#logo .site-title, #logo .site-description { display:none; }@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 2dppx) { #logo .logo-normal{ display: none; } #logo .logo-retina{ display: inline; } }@media only screen and ( min-width: 769px ) { #navigation ul.nav li ul { border: 1px solid #dbdbdb; } }#navigation ul.nav > li  { border-right: 1px solid #dbdbdb; }#navigation {border-top:0px solid #dbdbdb;border-bottom:1px solid #dbdbdb;}#footer-wrap {border-top:3px solid #ebebeb;}#footer-wrap-bottom {border-bottom:1px solid #bf9764;}.th-recipe, .th-recipe-list{ border-bottom:3px solid #bf9764;}.rate-title ,.recipe-info-single-big{ border-bottom:1px solid #bf9764;}.line-gold ,.recipe-info-single-big{ border-top:1px solid #bf9764;}</style>
+<!--[if lt IE 9]>
+<script src="https://www.pyszny-przepis.pl/wp-content/themes/food-cook/includes/assets/js/respond-IE.js"></script>
+<![endif]-->
+<!-- Custom Favicon --><link rel="shortcut icon" href="favicon-16px.png"><!-- Custom Retina Favicon --><link rel="apple-touch-icon" href="favicon-57px.png"><link rel="apple-touch-icon" sizes="114x114" href="favicon-144px.png"><link rel="apple-touch-icon" sizes="72x72" href="favicon-72px.png"><link rel="apple-touch-icon" sizes="144x144" href="favicon-144px.png">
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<!--  Mobile viewport scale -->
+<meta content="initial-scale=1.0, maximum-scale=1.0, user-scalable=yes" name="viewport">
+		<!-- Facebook Share Meta -->
+		<meta property="og:title" content="Idealne naleśniki w twoim zasięgu">
+		<meta property="og:image" content="nalesniki.jpg">
+		<meta property="og:url" content="https://www.pyszny-przepis.pl/idealne-nalesniki-w-twoim-zasiegu/">
+		<meta property="og:description" content="Gotowanie to może być doskonałe hobby dla wielu osób &#8211; i to niezależnie od płci. W końcu gotować mogą wszyscy, bez względu na wiek czy okoliczności. W każdym wieku też można odkryć w sobie miłość do gotowania i jest to powód do wielkiej dumy. W końcu każdy może gotować, ale gotowanie naprawdę smacznych potraw i czerpanie [&hellip;]">
+	    <!-- Twitter Share Meta -->
+	    <meta name="twitter:url" content="https://www.pyszny-przepis.pl/idealne-nalesniki-w-twoim-zasiegu/">
+	    <meta name="twitter:title" content="Idealne naleśniki w twoim zasięgu">
+	    <meta name="twitter:description" content="Gotowanie to może być doskonałe hobby dla wielu osób &#8211; i to niezależnie od płci. W końcu gotować mogą wszyscy, bez względu na wiek czy okoliczności. W każdym wieku też można odkryć w sobie miłość do gotowania i jest to powód do wielkiej dumy. W końcu każdy może gotować, ale gotowanie naprawdę smacznych potraw i czerpanie [&hellip;]">
+	    <meta name="twitter:image" content="https://www.pyszny-przepis.pl/wp-content/uploads/2021/03/nalesniki.jpg">
+	<script type="text/javascript">var ajaxurl = 'https://www.pyszny-przepis.pl/wp-admin/admin-ajax.php';</script><!--[if lte IE 8]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--><script src="../js/modernizr-2.6.1.min.js"></script><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.pyszny-przepis.pl/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>	<script async src="../js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-5847714909514782",
+    enable_page_level_ads: true
+  });
+</script>
+	</head>
+
+	<body class="error404 chrome alt-style-default two-col-left wpb-js-composer js-comp-ver-5.4.5 vc_responsive">
+
+					<div id="top">
+				<div class="col-full">
+					
+					<div class="fl">
+						
+			 
+			 						<div class="clear"></div>
+					</div>
+
+					<div class="fr">
+				        
+								 
+						<span class="fa fa-search df-ajax-search"></span>
+
+					</div>
+				</div>
+			</div><!-- /#top -->
+		
+			  <div class="universe-search">
+	    <div class="universe-search-close ent-text"></div>
+	    <div class="search-container-close"></div>
+	    <div class="df_container-fluid fluid-max col-full">
+	      <div class="universe-search-form">
+	          	          <input type="text" id="searchfrm" name="search" class="universe-search-input" placeholder="Type and press enter to search" value autocomplete="off" spellcheck="false" dir="ltr">
+	          	      </div><!-- end universe search form -->
+	      <div class="universe-search-results">
+	          <div class="search-results-scroller">
+	              <div class="nano-content">
+	              </div>
+	          </div>
+	      </div>
+	    </div><!-- end df-container-fluid -->
+	  </div><!-- end universe search -->
+        
+		<div id="wrapper">
+
+			
+		
+				    <a title="Pyszny przepis" class="logo-fixed" href="https://www.pyszny-przepis.pl/"><img class="logo-normal" src="logo-pyszny-przepis-150x150.png" alt="Pyszny przepis"></a>
+			<div id="header" class="col-full">
+
+			 			       
+				
+				
+				
+
+		        <h3 class="nav-toggle fa fa-reorder">
+		        	<a href="#navigation">Menu</a>
+		        </h3>
+
+		    </div><!-- /#header -->
+
+			<div id="navigation">
+	<div class="col-full">
+		<ul id="main-nav" class="nav">
+<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2034 first has-children"><a href="https://www.pyszny-przepis.pl/blog/"><span>Blog</span></a><ul class="sub-nav">
+<li class=" menu-item menu-item-type-post_type menu-item-object-post menu-item-4259 first"><a href="https://www.pyszny-przepis.pl/idealne-nalesniki-w-twoim-zasiegu/"><span>Idealne naleśniki w twoim zasięgu</span></a></li> 
+<li class=" menu-item menu-item-type-post_type menu-item-object-post menu-item-4253"><a href="https://www.pyszny-przepis.pl/jaka-wybrac-patelnie-nieprzywierajaca-i-jak-o-nia-dbac/"><span>Jaką wybrać patelnię nieprzywierającą i jak o nią dbać?</span></a></li> 
+<li class=" menu-item menu-item-type-post_type menu-item-object-post menu-item-4241"><a href="https://www.pyszny-przepis.pl/ciasta-czekoladowe-pyszny-deser-dla-dzieci-i-doroslych/"><span>Ciasta czekoladowe – pyszny deser dla dzieci i dorosłych!</span></a></li> 
+<li class=" menu-item menu-item-type-post_type menu-item-object-post menu-item-4229"><a href="https://www.pyszny-przepis.pl/czy-warto-zainwestowac-w-zakup-kotleciarki/"><span>Czy warto zainwestować w zakup kotleciarki?</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-4222"><a href="/jakie-sa-rodzaje-krajalnic/"><span>Jakie są rodzaje krajalnic?</span></a></li> 
+<li class=" menu-item menu-item-type-post_type menu-item-object-post menu-item-4209"><a href="https://www.pyszny-przepis.pl/slodycze-bezglutenowe/"><span>Słodycze bezglutenowe</span></a></li> 
+<li class=" menu-item menu-item-type-post_type menu-item-object-post menu-item-4203"><a href="https://www.pyszny-przepis.pl/rozne-odslony-zupy-ktora-lubisz-najbardziej/"><span>Różne odsłony zupy – którą lubisz najbardziej?</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2470"><a href="https://pyszny-przepis.pl/jak-rozpoznac-swieze-jajka"><span>Jak rozpoznać świeże jajka</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-3454"><a href="https://www.pyszny-przepis.pl/sposoby-na-przesolona-zupe/"><span>Przesolona zupa &#8211; jak uratować</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2471"><a href="https://pyszny-przepis.pl/formy-do-pieczenia-ktora-najlepsza"><span>Formy do pieczenia. Która najlepsza?</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-3459"><a href="https://www.pyszny-przepis.pl/co-zrobic-z-zakalcem-metody-na-zakalec/"><span>Metody na zakalec</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2665"><a href="https://www.pyszny-przepis.pl/przechowywanie-w-lodowce/"><span>Przechowywanie w lodówce</span></a></li> </ul></li> 
+<li class="fnc-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2067 df-mega-menu mega-full-width mega-column-4 mega-position-center mega-text-align-left has-children"><a href="https://www.pyszny-przepis.pl/przepisy/"><span class="mega-icon"><img src="menu_tlo.png" alt="Przepisy"></span><span>Przepisy</span></a><ul class="sub-nav">
+<li class="fnc-menu-51col menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1930 df-mega-parent df_span-sm-3 first has-children"><a href="#"><span>Kuchnie</span></a><ul class="sub-nav">
+<li class=" menu-item menu-item-type-taxonomy menu-item-object-cuisine menu-item-1965 first"><a href="https://www.pyszny-przepis.pl/cuisine/kuchnia-amerykanska/"><span>Kuchnia Amerykańska</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2880"><a href="/cuisine/angielska/"><span>Angielska</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2881"><a href="/cuisine/balkanska/"><span>Bałkańska</span></a></li> 
+<li class=" menu-item menu-item-type-taxonomy menu-item-object-cuisine menu-item-1968"><a href="https://www.pyszny-przepis.pl/cuisine/kuchnia-chinska/"><span>Kuchnia Chińska</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2882"><a href="/cuisine/francuska/"><span>Francuska</span></a></li> 
+<li class=" menu-item menu-item-type-taxonomy menu-item-object-cuisine menu-item-1970"><a href="https://www.pyszny-przepis.pl/cuisine/kuchnia-japonska/"><span>Kuchnia Japońska</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2883"><a href="/cuisine/meksykanska/"><span>Meksykańska</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2884"><a href="/cuisine/polska/"><span>Polska</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2885"><a href="/cuisine/slaska/"><span>Śląska</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2886"><a href="/cuisine/srodziemnomorska/"><span>Śródziemnomorska</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2887"><a href="/cuisine/weganska/"><span>Wegańska</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2888"><a href="/cuisine/wegierska/"><span>Węgierska</span></a></li> 
+<li class=" menu-item menu-item-type-taxonomy menu-item-object-cuisine menu-item-1973"><a href="https://www.pyszny-przepis.pl/cuisine/kuchnia-wloska/"><span>Kuchnia Włoska</span></a></li> </ul></li> 
+<li class="fnc-menu-51col menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1976 df-mega-parent df_span-sm-3 has-children"><a href="#"><span>Typ posiłku</span></a><ul class="sub-nav">
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2892 first"><a href="/recipe-type/ciasto/"><span>Ciasto</span></a></li> 
+<li class=" menu-item menu-item-type-taxonomy menu-item-object-course menu-item-1962"><a href="https://www.pyszny-przepis.pl/course/desery/"><span>Desery</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2893"><a href="/recipe-type/dodatki/"><span>Dodatki</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2894"><a href="/recipe-type/drinki/"><span>drinki</span></a></li> 
+<li class=" menu-item menu-item-type-taxonomy menu-item-object-recipe_type menu-item-1982"><a href="https://www.pyszny-przepis.pl/recipe-type/lunch/"><span>Lunch</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2896"><a href="/recipe-type/nalewki/"><span>nalewki</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2897"><a href="/recipe-type/obiady/"><span>Obiady</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2898"><a href="/recipe-type/przepis-na-pizze/"><span>Przepis na Pizze</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2899"><a href="/recipe-type/przetwory/"><span>przetwory</span></a></li> 
+<li class=" menu-item menu-item-type-taxonomy menu-item-object-recipe_type menu-item-1979"><a href="https://www.pyszny-przepis.pl/recipe-type/sniadanie/"><span>Śniadanie</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2900"><a href="/recipe-type/sosydressingi/"><span>Sosy/dressingi</span></a></li> 
+<li class=" menu-item menu-item-type-taxonomy menu-item-object-course menu-item-1959"><a href="https://www.pyszny-przepis.pl/course/przekaski/"><span>Przekąski</span></a></li> 
+<li class=" menu-item menu-item-type-taxonomy menu-item-object-course menu-item-1954"><a href="https://www.pyszny-przepis.pl/course/przystawki/"><span>Przystawki</span></a></li> 
+<li class=" menu-item menu-item-type-taxonomy menu-item-object-course menu-item-1956"><a href="https://www.pyszny-przepis.pl/course/salatki/"><span>Sałatki</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2901"><a href="/recipe-type/zupy/"><span>Zupy</span></a></li> </ul></li> </ul></li> 
+<li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-2152"><a href="https://www.pyszny-przepis.pl/przyslij-przepis/"><span>PRZYŚLIJ PRZEPIS</span></a></li> 
+<li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-2472 df-mega-menu mega-auto-width mega-column-3 mega-position-left mega-text-align-left"><a href="https://www.pyszny-przepis.pl/przelicznik-kulinarny-miary-i-wagi/"><span>Przelicznik kulinarny</span></a></li> 
+</ul>	</div>	
+</div><!-- /#navigation -->
+			
+			
+
+			
+ <div class="col-full">	        
+    <div id="topad">
+    
+		<script async src="../js/adsbygoogle.js"></script>
+<!-- Pyszny head -->
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-5847714909514782" data-ad-slot="2644609956"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>		   	
+        
+    </div><!-- /#topad -->
+    
+</div>
+			
+    <!-- #content Starts -->
+	
+    <div id="content" class="col-full">
+		
+    	<div id="main-sidebar-container">
+
+            <!-- #main Starts -->
+            
+                <div id="main" class="full-width">
+
+                    
+                    
+<div>
+<h1 class="title-404"><img src="404.png"></h1>	<div class="entry">
+	    Oooops! Wydaje się, że nie ma strony, której szukasz. Sprawdź czy adres wpisany u góry jest poprawny i szukaj dalej!<div class="woo-sc-divider"></div><div class="widget widget_woo_search"><p>Please use the search box to find what you are looking for.</p>
+<div class="search_main">
+    <form method="get" class="searchform" action="https://www.pyszny-przepis.pl/">
+        <input type="text" class="field s" name="s" value="Szukaj..." onfocus="if (this.value == 'Szukaj...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Szukaj...';}">
+        <button type="submit" class="fa fa-search submit"></button>
+
+                    
+            <script> 
+                jQuery(document).ready(function() {
+                    jQuery(".too").hide();
+
+                    jQuery('.search_main .linked-more span').addClass('show_hide');
+
+                    jQuery('.show_hide').click(function(){
+
+                       jQuery(".too").slideToggle(500);
+
+                    });
+                }); 
+            </script>
+
+            <p>
+                <div class="linked-more">
+
+                    <span style="color:#bf9764;cursor:pointer;">Zaawansowanie Szukanie</span>
+
+                </div>
+            </p>
+
+            <div class="too">
+                <input type="checkbox" name="post_type" value="post"><label>Blog</label>
+                <input type="checkbox" name="post_type" value="recipe"><label>Przepisy</label>
+
+                
+                 
+            </div>
+
+        
+    </form>    
+
+<div class="fix"></div>
+
+</div>
+</div>	</div><!-- /.entry -->
+
+	
+</div><!-- /.post -->
+
+                        
+                	
+                </div><!-- /#main -->
+
+                
+		</div><!-- /#main-sidebar-container -->         
+
+    </div><!-- /#content -->
+
+			
+		<a href="#" class="go-top"><div class="fa fa-chevron-up"></div></a>
+	
+		
+		
+		<div id="footer-wrap">
+		
+		<div id="footer-widgets" class="col-full col-4">
+			
+						
+			
+				<div class="block footer-widget-1">
+			    	    
+				</div>	        
+
+						
+			
+				<div class="block footer-widget-2">
+			    	    
+				</div>	        
+
+						
+			
+				<div class="block footer-widget-3">
+			    	    
+				</div>	        
+
+						
+			
+				<div class="block footer-widget-4">
+			    	    
+				</div>	        
+
+			
+			<div class="fix"></div>
+		</div><!--/#footer-widgets-->
+	
+		
+			<div id="footer-wrap-bottom">
+				<div class="footer-columns border-bottom padding">
+					<div class="padding"></div>
+					<div class="row-full-height row-same-height">
+						<aside class="col-sm-height col-full-height">
+							<div class="foot-col padding">
+								<div class="menu-footer1-menu-container"><ul id="menu-footer1-menu" class="menu"><li id="menu-item-3465" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3465"><a href="/recipe-type/sniadanie/"><h3>ŚNIADANIA</h3></a>
+<ul class="sub-menu">
+	<li id="menu-item-3499" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3499"><a href="https://www.pyszny-przepis.pl/przepis/pyszna-jajecznica-przepis/">Pyszna jajecznica przepis</a></li>
+	<li id="menu-item-3502" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3502"><a href="https://www.pyszny-przepis.pl/przepis/kasza-jaglana-na-mleku-z-owocami-i-miodem/">Kasza jaglana na mleku z owocami i miodem</a></li>
+	<li id="menu-item-3501" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3501"><a href="https://www.pyszny-przepis.pl/przepis/omlet-ze-szpinakiem-pozywne-sniadanie/">Omlet ze szpinakiem – pożywne śniadanie</a></li>
+	<li id="menu-item-3500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3500"><a href="https://www.pyszny-przepis.pl/przepis/owsianka-przepis-na-pyszne-sniadanie/">Owsianka przepis na pyszne śniadanie</a></li>
+</ul>
+</li>
+<li id="menu-item-3466" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3466"><a href="/recipe-type/obiady/"><h3>OBIADY</h3></a>
+<ul class="sub-menu">
+	<li id="menu-item-3503" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3503"><a href="https://www.pyszny-przepis.pl/przepis/placek-po-wegiersku-przepis/">Placek po węgiersku przepis</a></li>
+	<li id="menu-item-3505" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3505"><a href="https://www.pyszny-przepis.pl/przepis/przepis-na-ges-pieczona/">Przepis na gęś pieczoną</a></li>
+	<li id="menu-item-3506" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3506"><a href="https://www.pyszny-przepis.pl/przepis/przepis-na-schab-ze-sliwka/">Przepis na schab ze śliwką</a></li>
+	<li id="menu-item-3504" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3504"><a href="https://www.pyszny-przepis.pl/przepis/kotlet-schabowy-przepis-z-ananasem/">Kotlet schabowy przepis z ananasem</a></li>
+</ul>
+</li>
+<li id="menu-item-3467" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3467"><a href="/course/desery/"><h3>DESERY</h3></a>
+<ul class="sub-menu">
+	<li id="menu-item-3507" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3507"><a href="https://www.pyszny-przepis.pl/przepis/ciasto-snickers-przepis/">Ciasto snickers przepis</a></li>
+	<li id="menu-item-3508" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3508"><a href="https://www.pyszny-przepis.pl/przepis/baklava-przepis-oryginalny/">Baklava przepis oryginalny</a></li>
+	<li id="menu-item-3509" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3509"><a href="https://www.pyszny-przepis.pl/przepis/kasza-manna-przepis-z-truskawkami/">Kasza manna przepis z truskawkami</a></li>
+	<li id="menu-item-3510" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3510"><a href="https://www.pyszny-przepis.pl/przepis/rurki-z-kremem-przepis/">Rurki z kremem przepis</a></li>
+</ul>
+</li>
+<li id="menu-item-3511" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3511"><a href="/course/koktajle/"><h3>KOKTAJLE</h3></a>
+<ul class="sub-menu">
+	<li id="menu-item-3512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3512"><a href="https://www.pyszny-przepis.pl/przepis/koktajl-pomidorowy/">Koktajl pomidorowy</a></li>
+	<li id="menu-item-3513" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3513"><a href="https://www.pyszny-przepis.pl/przepis/orzezwiajacy-koktajl-malinowy/">Orzeźwiający koktajl malinowy</a></li>
+	<li id="menu-item-3514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3514"><a href="https://www.pyszny-przepis.pl/przepis/zdrowy-koktajl-z-pietruszki/">Zdrowy koktajl z pietruszki</a></li>
+	<li id="menu-item-3515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3515"><a href="https://www.pyszny-przepis.pl/przepis/mango-lassi-przepis-wysmienity/">Mango lassi przepis wyśmienity</a></li>
+</ul>
+</li>
+<li id="menu-item-3553" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3553"><a href="/course/wielkanoc/"><h3>WIELKANOC</h3></a>
+<ul class="sub-menu">
+	<li id="menu-item-3554" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3554"><a href="https://www.pyszny-przepis.pl/przepis/barszcz-bialy-przepis/">Barszcz biały przepis</a></li>
+	<li id="menu-item-3555" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3555"><a href="https://www.pyszny-przepis.pl/przepis/zurek-przepis-idealny/">Żurek przepis idealny</a></li>
+	<li id="menu-item-3556" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3556"><a href="https://www.pyszny-przepis.pl/przepis/biala-kielbasa-przepis-domowy/">Biała kiełbasa przepis domowy</a></li>
+	<li id="menu-item-3557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3557"><a href="https://www.pyszny-przepis.pl/przepis/pascha-przepis-klasyczny/">Pascha przepis klasyczny</a></li>
+</ul>
+</li>
+<li id="menu-item-3558" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3558"><a href="/course/karnawal/"><h3>KARNAWAŁ</h3></a>
+<ul class="sub-menu">
+	<li id="menu-item-3559" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3559"><a href="https://www.pyszny-przepis.pl/przepis/przepis-na-faworki-na-ostro/">Przepis na faworki na ostro</a></li>
+	<li id="menu-item-3560" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3560"><a href="https://www.pyszny-przepis.pl/przepis/przepis-na-paczki/">Przepis na pączki</a></li>
+	<li id="menu-item-3561" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3561"><a href="https://www.pyszny-przepis.pl/przepis/twarogowe-oponki-przepis/">Twarogowe oponki przepis</a></li>
+</ul>
+</li>
+<li id="menu-item-3868" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3868"><a href="https://www.pyszny-przepis.pl/cuisine/kuchnia-amerykanska/"><h3>Kuchnia Amerykańska</h3></a>
+<ul class="sub-menu">
+	<li id="menu-item-3869" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3869"><a href="https://www.pyszny-przepis.pl/przepis/amerykanskie-pancakes-przepis-dnia/">Naleśniki amerykańskie przepis</a></li>
+</ul>
+</li>
+</ul></div>							</div>
+						</aside>
+						
+						<aside class="col-sm-height col-full-height borders">
+							<div class="foot-col padding">
+								<div class="menu-footer2-menu-container"><ul id="menu-footer2-menu" class="menu"><li id="menu-item-3470" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3470"><a href="/recipe-type/zupy/"><h3>ZUPY</h3></a>
+<ul class="sub-menu">
+	<li id="menu-item-3516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3516"><a href="https://www.pyszny-przepis.pl/przepis/zupa-kalafiorowa-przepis/">Zupa kalafiorowa przepis</a></li>
+	<li id="menu-item-3517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3517"><a href="https://www.pyszny-przepis.pl/przepis/ciecierzyca-przepis-na-zupe/">Ciecierzyca przepis na zupę</a></li>
+	<li id="menu-item-3518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3518"><a href="https://www.pyszny-przepis.pl/przepis/zupa-cebulowa-przepis-klasyczny/">Zupa cebulowa przepis klasyczny</a></li>
+	<li id="menu-item-3519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3519"><a href="https://www.pyszny-przepis.pl/przepis/pyszny-krupnik-przepis-mojej-mamy/">Pyszny krupnik przepis mojej mamy</a></li>
+</ul>
+</li>
+<li id="menu-item-3471" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3471"><a href="/course/salatki/"><h3>SAŁATKI</h3></a>
+<ul class="sub-menu">
+	<li id="menu-item-3520" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3520"><a href="https://www.pyszny-przepis.pl/przepis/salatka-cezar-przepis-tradycyjny/">Sałatka cezar przepis tradycyjny</a></li>
+	<li id="menu-item-3523" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3523"><a href="https://www.pyszny-przepis.pl/przepis/salatka-gyros-przepis-indywidualny/">Sałatka gyros przepis indywidualny</a></li>
+	<li id="menu-item-3522" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3522"><a href="https://www.pyszny-przepis.pl/przepis/salatka-grecka-przepis-klasyczny/">Sałatka grecka przepis klasyczny</a></li>
+	<li id="menu-item-3521" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3521"><a href="https://www.pyszny-przepis.pl/przepis/coleslaw-przepis-na-surowke/">Coleslaw przepis na surówkę</a></li>
+</ul>
+</li>
+<li id="menu-item-3472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3472"><a href="/course/przystawki/"><h3>PRZYSTAWKI</h3></a>
+<ul class="sub-menu">
+	<li id="menu-item-3526" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3526"><a href="https://www.pyszny-przepis.pl/przepis/tatar-przepis-tradycyjny/">Tatar przepis tradycyjny</a></li>
+	<li id="menu-item-3525" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3525"><a href="https://www.pyszny-przepis.pl/przepis/tekka-maki-sushi-przepis/">Tekka maki (sushi przepis)</a></li>
+	<li id="menu-item-3527" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3527"><a href="https://www.pyszny-przepis.pl/przepis/przepis-na-tatara-z-lososia/">Przepis na tatara z łososia</a></li>
+	<li id="menu-item-3524" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3524"><a href="https://www.pyszny-przepis.pl/przepis/orzechowy-seler-naciowy-przepisy-na-szybkie-przekaski/">Orzechowy seler naciowy przepisy na szybkie przekąski</a></li>
+</ul>
+</li>
+<li id="menu-item-3473" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3473"><a href="/course/przekaski/"><h3>PRZEKĄSKI</h3></a>
+<ul class="sub-menu">
+	<li id="menu-item-3528" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3528"><a href="https://www.pyszny-przepis.pl/przepis/chrupiace-kalmary-przepis/">Chrupiące kalmary przepis</a></li>
+	<li id="menu-item-3529" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3529"><a href="https://www.pyszny-przepis.pl/przepis/meksykanskie-tacos-przepis/">Meksykańskie tacos przepis</a></li>
+	<li id="menu-item-3530" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3530"><a href="https://www.pyszny-przepis.pl/przepis/focaccia-przepis-podstawowy/">Focaccia przepis podstawowy</a></li>
+	<li id="menu-item-3531" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3531"><a href="https://www.pyszny-przepis.pl/przepis/awokado-przepis-na-guacamole/">Awokado przepis na guacamole</a></li>
+</ul>
+</li>
+<li id="menu-item-3562" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3562"><a href="/course/bozenarodzenie/"><h3>BOŻE  NARODZENIE </h3></a>
+<ul class="sub-menu">
+	<li id="menu-item-3563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3563"><a href="https://www.pyszny-przepis.pl/przepis/piernik-przepis-na-swieta/">Piernik przepis na święta</a></li>
+	<li id="menu-item-3564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3564"><a href="https://www.pyszny-przepis.pl/przepis/zupa-grzybowa-przepis/">Zupa grzybowa przepis</a></li>
+	<li id="menu-item-3565" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3565"><a href="https://www.pyszny-przepis.pl/przepis/przepis-na-krokiety-z-grzybami/">Przepis na krokiety z grzybami</a></li>
+	<li id="menu-item-3566" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3566"><a href="https://www.pyszny-przepis.pl/przepis/kutia-przepis-tradycyjny/">Kutia przepis tradycyjny</a></li>
+	<li id="menu-item-3567" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3567"><a href="https://www.pyszny-przepis.pl/przepis/przepis-na-makowiec-swiateczny/">Przepis na makowiec świąteczny</a></li>
+</ul>
+</li>
+<li id="menu-item-3568" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3568"><a href="/course/przyjecia/"><h3>PRZYJĘCIA</h3></a>
+<ul class="sub-menu">
+	<li id="menu-item-3569" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3569"><a href="https://www.pyszny-przepis.pl/przepis/imprezowe-koreczki-przepisy-nietypowe/">Imprezowe koreczki przepisy</a></li>
+	<li id="menu-item-3570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3570"><a href="https://www.pyszny-przepis.pl/przepis/koreczki-przepis-na-pyszna-przystawke/">Koreczki przepis na pyszną przystawkę</a></li>
+</ul>
+</li>
+</ul></div>	
+							</div>
+						</aside>
+						<aside class="col-sm-height col-full-height">
+							<div class="foot-col padding">
+					 			<div class="menu-footer3-menu-container"><ul id="menu-footer3-menu" class="menu"><li id="menu-item-3476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3476"><a href="/recipe-type/zapiekanka/"><h3>ZAPIEKANKI</h3></a>
+<ul class="sub-menu">
+	<li id="menu-item-3532" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3532"><a href="https://www.pyszny-przepis.pl/przepis/zapiekane-brokuly-przepis/">Zapiekane brokuły przepis</a></li>
+	<li id="menu-item-3533" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3533"><a href="https://www.pyszny-przepis.pl/przepis/zapiekane-szparagi-przepisy/">Zapiekane szparagi przepisy</a></li>
+	<li id="menu-item-3534" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3534"><a href="https://www.pyszny-przepis.pl/przepis/grecka-musaka-przepis-na-pyszny-obiad/">Grecka Musaka przepis na pyszny obiad</a></li>
+	<li id="menu-item-3535" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3535"><a href="https://www.pyszny-przepis.pl/przepis/lazania-przepis-tradycyjny/">Lazania przepis tradycyjny</a></li>
+</ul>
+</li>
+<li id="menu-item-3477" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3477"><a href="/recipe-type/przepis-na-pizze/"><h3>PIZZE</h3></a>
+<ul class="sub-menu">
+	<li id="menu-item-3539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3539"><a href="https://www.pyszny-przepis.pl/przepis/przepis-na-ciasto-do-pizzy/">Przepis na ciasto do pizzy</a></li>
+	<li id="menu-item-3538" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3538"><a href="https://www.pyszny-przepis.pl/przepis/calzone-przepis-na-pizze/">Calzone przepis na pizzę</a></li>
+	<li id="menu-item-3537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3537"><a href="https://www.pyszny-przepis.pl/przepis/pizza-z-salami-i-bazylia-przepis-dla-kazdego/">Pizza z salami i bazylią – przepis dla każdego</a></li>
+	<li id="menu-item-3536" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3536"><a href="https://www.pyszny-przepis.pl/przepis/pizza-hawajska-przepis-domowy/">Pizza hawajska przepis domowy</a></li>
+</ul>
+</li>
+<li id="menu-item-3478" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3478"><a href="/recipe-type/ciasto/"><h3>CIASTA I CIASTKA</h3></a>
+<ul class="sub-menu">
+	<li id="menu-item-3543" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3543"><a href="https://www.pyszny-przepis.pl/przepis/sernik-wiedenski-przepis-niemal-doskonaly/">Sernik wiedeński przepis niemal doskonały!</a></li>
+	<li id="menu-item-3541" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3541"><a href="https://www.pyszny-przepis.pl/przepis/strudel-jablkowy-jablecznik-przepis/">Strudel jabłkowy – jabłecznik przepis</a></li>
+	<li id="menu-item-3542" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3542"><a href="https://www.pyszny-przepis.pl/przepis/plesniak-przepis-niezawodny/">Pleśniak przepis niezawodny</a></li>
+	<li id="menu-item-3540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3540"><a href="https://www.pyszny-przepis.pl/przepis/rurki-z-kremem-przepis/">Rurki z kremem przepis</a></li>
+</ul>
+</li>
+<li id="menu-item-3479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3479"><a href="/recipe-type/przetwory/"><h3>PRZETWORY</h3></a>
+<ul class="sub-menu">
+	<li id="menu-item-3544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3544"><a href="https://www.pyszny-przepis.pl/przepis/dzem-truskawkowy-przepis-tradycyjny/">Dżem truskawkowy przepis tradycyjny</a></li>
+	<li id="menu-item-3546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3546"><a href="https://www.pyszny-przepis.pl/przepis/grzyby-marynowane-przepis/">Grzyby marynowane przepis</a></li>
+	<li id="menu-item-3545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3545"><a href="https://www.pyszny-przepis.pl/przepis/powidla-sliwkowe-przepis-tradycyjny/">Powidła śliwkowe przepis tradycyjny</a></li>
+	<li id="menu-item-3547" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3547"><a href="https://www.pyszny-przepis.pl/przepis/ogorki-konserwowe-przepis/">Ogórki konserwowe przepis</a></li>
+</ul>
+</li>
+<li id="menu-item-3480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3480"><a href="/recipe-type/nalewki/"><h3>NALEWKI</h3></a>
+<ul class="sub-menu">
+	<li id="menu-item-3548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3548"><a href="https://www.pyszny-przepis.pl/przepis/sliwowica-przepis-na-nalewke-sliwkowa/">Śliwowica przepis na „nalewkę” śliwkową</a></li>
+	<li id="menu-item-3549" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3549"><a href="https://www.pyszny-przepis.pl/przepis/wisniowka-przepis-domowy/">Wiśniówka przepis domowy</a></li>
+	<li id="menu-item-3550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3550"><a href="https://www.pyszny-przepis.pl/przepis/cydr-przepis-domowy/">Cydr przepis domowy</a></li>
+	<li id="menu-item-3551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3551"><a href="https://www.pyszny-przepis.pl/przepis/domowa-cytrynowka-przepis/">Domowa cytrynówka przepis</a></li>
+</ul>
+</li>
+<li id="menu-item-3571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3571"><a href="/recipe-type/drinki/"><h3>DRINKI</h3></a>
+<ul class="sub-menu">
+	<li id="menu-item-3572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3572"><a href="/przepis/pyszne-malibu-przepis/">Pyszne malibu przepis</a></li>
+	<li id="menu-item-3573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3573"><a href="https://www.pyszny-przepis.pl/przepis/sangria-przepis-domowy/">Sangria przepis domowy</a></li>
+	<li id="menu-item-3574" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3574"><a href="/przepis/orzezwiajace-mojito-przepis/">Orzeźwiające mojito przepis</a></li>
+	<li id="menu-item-3575" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3575"><a href="/przepis/truskawkowe-daiquiri-przepis/">Truskawkowe daiquiri przepis</a></li>
+</ul>
+</li>
+</ul></div>							</div>
+						</aside>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<div id="footer" class="col-full">
+			
+								    
+					<div id="copyright" class="col-left">
+						<p>&copy; 2021 Pyszny przepis. Wszystkie prawa zastrzeżone.  | <a href="/kontakt/">Kontakt</a> | <a href="/reklama/">Reklama</a> | <a href="/o-nas/">O nas</a> </p>					</div>
+				
+					<div id="credit" class="col-right">
+						<p></p>					</div>
+				
+				</div><!-- /#footer  -->
+			</div>
+		
+		   
+
+		
+		</div><!-- /#wrapper -->
+
+		<div class="fix"></div><!--/.fix-->
+
+		
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-64199396-1', 'auto');
+  ga('send', 'pageview');
+</script>
+      <script type="text/javascript">
+
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfImagesSize = 'full-size';
+          var pfImageDisplayStyle = 'right';
+          var pfEncodeImages = '0';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+          var pfPlatform = 'Wordpress';
+      </script>
+      <script async src="../js/printfriendly.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var q2w3_sidebar_options = [{"sidebar":"primary","margin_top":10,"margin_bottom":0,"stop_id":"footer-wrap","screen_max_width":960,"screen_max_height":0,"width_inherit":true,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["text-3"]}];
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/q2w3-fixed-widget.min.js"></script>
+<script type="text/javascript" src="../js/plugins.js"></script>
+<script type="text/javascript" src="../js/core.min.js"></script>
+<script type="text/javascript" src="../js/widget.min.js"></script>
+<script type="text/javascript" src="../js/tabs.min.js"></script>
+<script type="text/javascript" src="../js/script.min.js"></script>
+<script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){return}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){return}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="../js/lazyload.min.js"></script>	
+	</div></body>
+</html>
